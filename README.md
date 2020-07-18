@@ -12,10 +12,10 @@ Data is taken from https://www.kaggle.com/roshansharma/online-shoppers-intention
 
 Following libraries are used :
 
-pandas
-numpy
-seaborn
-matplotlib
-sklearn
-boto3
-sagemaker
+-pandas
+-numpy
+-seaborn
+-matplotlib
+-sklearn
+-boto3
+-sagemaker
